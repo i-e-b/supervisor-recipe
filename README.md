@@ -1,4 +1,5 @@
-supervisor-recipe
-=================
+Supervisor
+==========
 
-A Chef recipe for installing Supervisor (supervisord &amp; supervisorctl) through apt-get
+A Chef Recipe for Supervisor on Debian/Ubuntu (very simplistic)
+
